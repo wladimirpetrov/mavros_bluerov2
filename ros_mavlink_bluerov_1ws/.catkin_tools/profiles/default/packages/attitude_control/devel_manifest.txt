@@ -1,0 +1,5 @@
+attitude_control
+/local/vol00/home/vpetrov/dev/mavros_bluerov2/ros_mavlink_bluerov_1ws/devel/.private/attitude_control/cmake.lock /local/vol00/home/vpetrov/dev/mavros_bluerov2/ros_mavlink_bluerov_1ws/devel/./cmake.lock
+/local/vol00/home/vpetrov/dev/mavros_bluerov2/ros_mavlink_bluerov_1ws/devel/.private/attitude_control/lib/pkgconfig/attitude_control.pc /local/vol00/home/vpetrov/dev/mavros_bluerov2/ros_mavlink_bluerov_1ws/devel/lib/pkgconfig/attitude_control.pc
+/local/vol00/home/vpetrov/dev/mavros_bluerov2/ros_mavlink_bluerov_1ws/devel/.private/attitude_control/share/attitude_control/cmake/attitude_controlConfig-version.cmake /local/vol00/home/vpetrov/dev/mavros_bluerov2/ros_mavlink_bluerov_1ws/devel/share/attitude_control/cmake/attitude_controlConfig-version.cmake
+/local/vol00/home/vpetrov/dev/mavros_bluerov2/ros_mavlink_bluerov_1ws/devel/.private/attitude_control/share/attitude_control/cmake/attitude_controlConfig.cmake /local/vol00/home/vpetrov/dev/mavros_bluerov2/ros_mavlink_bluerov_1ws/devel/share/attitude_control/cmake/attitude_controlConfig.cmake

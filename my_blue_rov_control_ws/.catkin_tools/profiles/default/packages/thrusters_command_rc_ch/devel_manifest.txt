@@ -1,0 +1,5 @@
+thrusters_command_rc_ch
+/local/vol00/home/vpetrov/dev/mavros_bluerov2/my_blue_rov_control_ws/devel/.private/thrusters_command_rc_ch/cmake.lock /local/vol00/home/vpetrov/dev/mavros_bluerov2/my_blue_rov_control_ws/devel/./cmake.lock
+/local/vol00/home/vpetrov/dev/mavros_bluerov2/my_blue_rov_control_ws/devel/.private/thrusters_command_rc_ch/lib/pkgconfig/thrusters_command_rc_ch.pc /local/vol00/home/vpetrov/dev/mavros_bluerov2/my_blue_rov_control_ws/devel/lib/pkgconfig/thrusters_command_rc_ch.pc
+/local/vol00/home/vpetrov/dev/mavros_bluerov2/my_blue_rov_control_ws/devel/.private/thrusters_command_rc_ch/share/thrusters_command_rc_ch/cmake/thrusters_command_rc_chConfig.cmake /local/vol00/home/vpetrov/dev/mavros_bluerov2/my_blue_rov_control_ws/devel/share/thrusters_command_rc_ch/cmake/thrusters_command_rc_chConfig.cmake
+/local/vol00/home/vpetrov/dev/mavros_bluerov2/my_blue_rov_control_ws/devel/.private/thrusters_command_rc_ch/share/thrusters_command_rc_ch/cmake/thrusters_command_rc_chConfig-version.cmake /local/vol00/home/vpetrov/dev/mavros_bluerov2/my_blue_rov_control_ws/devel/share/thrusters_command_rc_ch/cmake/thrusters_command_rc_chConfig-version.cmake

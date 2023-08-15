@@ -1,0 +1,1 @@
+/local/vol00/home/vpetrov/dev/mavros_bluerov2/my_blue_rov_control_ws/devel/.private/thrusters_command/share/thrusters_command/cmake/thrusters_commandConfig-version.cmake

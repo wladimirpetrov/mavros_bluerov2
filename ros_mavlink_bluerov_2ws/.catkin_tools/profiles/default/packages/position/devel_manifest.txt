@@ -1,0 +1,5 @@
+position
+/local/vol00/home/vpetrov/dev/mavros_bluerov2/ros_mavlink_bluerov_2ws/devel/.private/position/cmake.lock /local/vol00/home/vpetrov/dev/mavros_bluerov2/ros_mavlink_bluerov_2ws/devel/./cmake.lock
+/local/vol00/home/vpetrov/dev/mavros_bluerov2/ros_mavlink_bluerov_2ws/devel/.private/position/lib/pkgconfig/position.pc /local/vol00/home/vpetrov/dev/mavros_bluerov2/ros_mavlink_bluerov_2ws/devel/lib/pkgconfig/position.pc
+/local/vol00/home/vpetrov/dev/mavros_bluerov2/ros_mavlink_bluerov_2ws/devel/.private/position/share/position/cmake/positionConfig-version.cmake /local/vol00/home/vpetrov/dev/mavros_bluerov2/ros_mavlink_bluerov_2ws/devel/share/position/cmake/positionConfig-version.cmake
+/local/vol00/home/vpetrov/dev/mavros_bluerov2/ros_mavlink_bluerov_2ws/devel/.private/position/share/position/cmake/positionConfig.cmake /local/vol00/home/vpetrov/dev/mavros_bluerov2/ros_mavlink_bluerov_2ws/devel/share/position/cmake/positionConfig.cmake

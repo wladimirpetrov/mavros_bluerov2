@@ -1,0 +1,1 @@
+/usr/lib/ccache/c++ -fPIC   -shared -Wl,-soname,libgmock.so -o ../lib/libgmock.so CMakeFiles/gmock.dir/src/gmock-all.cc.o  -Wl,-rpath,/local/vol00/home/vpetrov/dev/mavros_bluerov2/my_blue_rov_control_ws/build/mavros_setpoint_attitude_cmd_vel/gtest/lib ../lib/libgtest.so -lpthread 

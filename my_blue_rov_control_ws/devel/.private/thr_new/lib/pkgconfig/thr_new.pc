@@ -1,0 +1,8 @@
+prefix=/local/vol00/home/vpetrov/dev/mavros_bluerov2/my_blue_rov_control_ws/devel/.private/thr_new
+
+Name: thr_new
+Description: Description of thr_new
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

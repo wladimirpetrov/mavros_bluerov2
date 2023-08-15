@@ -1,0 +1,12 @@
+Symlinking /local/vol00/home/vpetrov/dev/mavros_bluerov2/ros_mavlink_bluerov_1ws/devel/./cmake.lock
+Symlinking /local/vol00/home/vpetrov/dev/mavros_bluerov2/ros_mavlink_bluerov_1ws/devel/./local_setup.zsh
+Symlinking /local/vol00/home/vpetrov/dev/mavros_bluerov2/ros_mavlink_bluerov_1ws/devel/./env.sh
+Symlinking /local/vol00/home/vpetrov/dev/mavros_bluerov2/ros_mavlink_bluerov_1ws/devel/./local_setup.bash
+Symlinking /local/vol00/home/vpetrov/dev/mavros_bluerov2/ros_mavlink_bluerov_1ws/devel/./setup.bash
+Symlinking /local/vol00/home/vpetrov/dev/mavros_bluerov2/ros_mavlink_bluerov_1ws/devel/./local_setup.sh
+Symlinking /local/vol00/home/vpetrov/dev/mavros_bluerov2/ros_mavlink_bluerov_1ws/devel/./setup.zsh
+Symlinking /local/vol00/home/vpetrov/dev/mavros_bluerov2/ros_mavlink_bluerov_1ws/devel/./setup.sh
+Symlinking /local/vol00/home/vpetrov/dev/mavros_bluerov2/ros_mavlink_bluerov_1ws/devel/./_setup_util.py
+Symlinking /local/vol00/home/vpetrov/dev/mavros_bluerov2/ros_mavlink_bluerov_1ws/devel/lib/pkgconfig/catkin_tools_prebuild.pc
+Symlinking /local/vol00/home/vpetrov/dev/mavros_bluerov2/ros_mavlink_bluerov_1ws/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake
+Symlinking /local/vol00/home/vpetrov/dev/mavros_bluerov2/ros_mavlink_bluerov_1ws/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake

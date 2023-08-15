@@ -1,0 +1,8 @@
+prefix=/local/vol00/home/vpetrov/dev/mavros_bluerov2/my_blue_rov_control_ws/devel/.private/new_blue_rov_node
+
+Name: new_blue_rov_node
+Description: Description of new_blue_rov_node
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

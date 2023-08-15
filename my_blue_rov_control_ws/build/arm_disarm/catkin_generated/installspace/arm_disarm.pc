@@ -1,0 +1,8 @@
+prefix=/local/vol00/home/vpetrov/dev/mavros_bluerov2/my_blue_rov_control_ws/install
+
+Name: arm_disarm
+Description: Description of arm_disarm
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

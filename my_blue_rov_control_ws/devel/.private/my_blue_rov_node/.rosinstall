@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /local/vol00/home/vpetrov/dev/mavros_bluerov2/my_blue_rov_control_ws/devel/.private/my_blue_rov_node/setup.sh

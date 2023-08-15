@@ -1,0 +1,5 @@
+new_blue_rov_node
+/local/vol00/home/vpetrov/dev/mavros_bluerov2/my_blue_rov_control_ws/devel/.private/new_blue_rov_node/cmake.lock /local/vol00/home/vpetrov/dev/mavros_bluerov2/my_blue_rov_control_ws/devel/./cmake.lock
+/local/vol00/home/vpetrov/dev/mavros_bluerov2/my_blue_rov_control_ws/devel/.private/new_blue_rov_node/lib/pkgconfig/new_blue_rov_node.pc /local/vol00/home/vpetrov/dev/mavros_bluerov2/my_blue_rov_control_ws/devel/lib/pkgconfig/new_blue_rov_node.pc
+/local/vol00/home/vpetrov/dev/mavros_bluerov2/my_blue_rov_control_ws/devel/.private/new_blue_rov_node/share/new_blue_rov_node/cmake/new_blue_rov_nodeConfig.cmake /local/vol00/home/vpetrov/dev/mavros_bluerov2/my_blue_rov_control_ws/devel/share/new_blue_rov_node/cmake/new_blue_rov_nodeConfig.cmake
+/local/vol00/home/vpetrov/dev/mavros_bluerov2/my_blue_rov_control_ws/devel/.private/new_blue_rov_node/share/new_blue_rov_node/cmake/new_blue_rov_nodeConfig-version.cmake /local/vol00/home/vpetrov/dev/mavros_bluerov2/my_blue_rov_control_ws/devel/share/new_blue_rov_node/cmake/new_blue_rov_nodeConfig-version.cmake

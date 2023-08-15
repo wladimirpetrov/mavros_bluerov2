@@ -1,0 +1,8 @@
+prefix=/local/vol00/home/vpetrov/dev/mavros_bluerov2/my_blue_rov_control_ws/devel/.private/thrusters_command
+
+Name: thrusters_command
+Description: Description of thrusters_command
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

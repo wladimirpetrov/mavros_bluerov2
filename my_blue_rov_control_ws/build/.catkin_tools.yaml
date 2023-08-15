@@ -1,0 +1,6 @@
+devel_space: /local/vol00/home/vpetrov/dev/mavros_bluerov2/my_blue_rov_control_ws/devel
+install: false
+install_space: /local/vol00/home/vpetrov/dev/mavros_bluerov2/my_blue_rov_control_ws/install
+profile: default
+source_space: /local/vol00/home/vpetrov/dev/mavros_bluerov2/my_blue_rov_control_ws/src
+workspace: /local/vol00/home/vpetrov/dev/mavros_bluerov2/my_blue_rov_control_ws

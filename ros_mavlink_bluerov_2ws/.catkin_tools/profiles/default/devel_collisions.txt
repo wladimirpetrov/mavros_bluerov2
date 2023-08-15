@@ -1,0 +1,2 @@
+/local/vol00/home/vpetrov/dev/mavros_bluerov2/ros_mavlink_bluerov_1ws/devel/./cmake.lock 19
+/local/vol00/home/vpetrov/dev/mavros_bluerov2/ros_mavlink_bluerov_2ws/devel/./cmake.lock 5

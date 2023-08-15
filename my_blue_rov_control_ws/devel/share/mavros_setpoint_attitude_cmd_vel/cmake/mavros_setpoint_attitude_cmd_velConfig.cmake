@@ -1,0 +1,1 @@
+/local/vol00/home/vpetrov/dev/mavros_bluerov2/my_blue_rov_control_ws/devel/.private/mavros_setpoint_attitude_cmd_vel/share/mavros_setpoint_attitude_cmd_vel/cmake/mavros_setpoint_attitude_cmd_velConfig.cmake

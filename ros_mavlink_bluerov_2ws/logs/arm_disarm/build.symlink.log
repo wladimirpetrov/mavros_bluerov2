@@ -1,0 +1,10 @@
+Symlinking /local/vol00/home/vpetrov/dev/mavros_bluerov2/ros_mavlink_bluerov_2ws/devel/lib/pkgconfig/arm_disarm.pc
+Symlinking /local/vol00/home/vpetrov/dev/mavros_bluerov2/ros_mavlink_bluerov_2ws/devel/share/arm_disarm/cmake/arm_disarmConfig.cmake
+Symlinking /local/vol00/home/vpetrov/dev/mavros_bluerov2/ros_mavlink_bluerov_2ws/devel/share/arm_disarm/cmake/arm_disarmConfig-version.cmake
+Cleaning: (/local/vol00/home/vpetrov/dev/mavros_bluerov2/ros_mavlink_bluerov_1ws/devel/.private/arm_disarm/cmake.lock, /local/vol00/home/vpetrov/dev/mavros_bluerov2/ros_mavlink_bluerov_1ws/devel/./cmake.lock)
+Cleaning: (/local/vol00/home/vpetrov/dev/mavros_bluerov2/ros_mavlink_bluerov_1ws/devel/.private/arm_disarm/lib/pkgconfig/arm_disarm.pc, /local/vol00/home/vpetrov/dev/mavros_bluerov2/ros_mavlink_bluerov_1ws/devel/lib/pkgconfig/arm_disarm.pc)
+Cleaning: (/local/vol00/home/vpetrov/dev/mavros_bluerov2/ros_mavlink_bluerov_1ws/devel/.private/arm_disarm/share/arm_disarm/cmake/arm_disarmConfig.cmake, /local/vol00/home/vpetrov/dev/mavros_bluerov2/ros_mavlink_bluerov_1ws/devel/share/arm_disarm/cmake/arm_disarmConfig.cmake)
+Cleaning: (/local/vol00/home/vpetrov/dev/mavros_bluerov2/ros_mavlink_bluerov_1ws/devel/.private/arm_disarm/share/arm_disarm/cmake/arm_disarmConfig-version.cmake, /local/vol00/home/vpetrov/dev/mavros_bluerov2/ros_mavlink_bluerov_1ws/devel/share/arm_disarm/cmake/arm_disarmConfig-version.cmake)
+Unlinking: /local/vol00/home/vpetrov/dev/mavros_bluerov2/ros_mavlink_bluerov_1ws/devel/lib/pkgconfig/arm_disarm.pc
+Unlinking: /local/vol00/home/vpetrov/dev/mavros_bluerov2/ros_mavlink_bluerov_1ws/devel/share/arm_disarm/cmake/arm_disarmConfig.cmake
+Unlinking: /local/vol00/home/vpetrov/dev/mavros_bluerov2/ros_mavlink_bluerov_1ws/devel/share/arm_disarm/cmake/arm_disarmConfig-version.cmake

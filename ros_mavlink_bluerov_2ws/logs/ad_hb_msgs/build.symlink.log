@@ -1,0 +1,10 @@
+Symlinking /local/vol00/home/vpetrov/dev/mavros_bluerov2/ros_mavlink_bluerov_2ws/devel/lib/pkgconfig/ad_hb_msgs.pc
+Symlinking /local/vol00/home/vpetrov/dev/mavros_bluerov2/ros_mavlink_bluerov_2ws/devel/share/ad_hb_msgs/cmake/ad_hb_msgsConfig.cmake
+Symlinking /local/vol00/home/vpetrov/dev/mavros_bluerov2/ros_mavlink_bluerov_2ws/devel/share/ad_hb_msgs/cmake/ad_hb_msgsConfig-version.cmake
+Cleaning: (/local/vol00/home/vpetrov/dev/mavros_bluerov2/ros_mavlink_bluerov_1ws/devel/.private/ad_hb_msgs/cmake.lock, /local/vol00/home/vpetrov/dev/mavros_bluerov2/ros_mavlink_bluerov_1ws/devel/./cmake.lock)
+Cleaning: (/local/vol00/home/vpetrov/dev/mavros_bluerov2/ros_mavlink_bluerov_1ws/devel/.private/ad_hb_msgs/lib/pkgconfig/ad_hb_msgs.pc, /local/vol00/home/vpetrov/dev/mavros_bluerov2/ros_mavlink_bluerov_1ws/devel/lib/pkgconfig/ad_hb_msgs.pc)
+Cleaning: (/local/vol00/home/vpetrov/dev/mavros_bluerov2/ros_mavlink_bluerov_1ws/devel/.private/ad_hb_msgs/share/ad_hb_msgs/cmake/ad_hb_msgsConfig.cmake, /local/vol00/home/vpetrov/dev/mavros_bluerov2/ros_mavlink_bluerov_1ws/devel/share/ad_hb_msgs/cmake/ad_hb_msgsConfig.cmake)
+Cleaning: (/local/vol00/home/vpetrov/dev/mavros_bluerov2/ros_mavlink_bluerov_1ws/devel/.private/ad_hb_msgs/share/ad_hb_msgs/cmake/ad_hb_msgsConfig-version.cmake, /local/vol00/home/vpetrov/dev/mavros_bluerov2/ros_mavlink_bluerov_1ws/devel/share/ad_hb_msgs/cmake/ad_hb_msgsConfig-version.cmake)
+Unlinking: /local/vol00/home/vpetrov/dev/mavros_bluerov2/ros_mavlink_bluerov_1ws/devel/lib/pkgconfig/ad_hb_msgs.pc
+Unlinking: /local/vol00/home/vpetrov/dev/mavros_bluerov2/ros_mavlink_bluerov_1ws/devel/share/ad_hb_msgs/cmake/ad_hb_msgsConfig.cmake
+Unlinking: /local/vol00/home/vpetrov/dev/mavros_bluerov2/ros_mavlink_bluerov_1ws/devel/share/ad_hb_msgs/cmake/ad_hb_msgsConfig-version.cmake

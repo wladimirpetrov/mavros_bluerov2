@@ -1,0 +1,1 @@
+/local/vol00/home/vpetrov/dev/mavros_bluerov2/my_blue_rov_control_ws/devel/.private/new_blue_rov_node/share/new_blue_rov_node/cmake/new_blue_rov_nodeConfig-version.cmake

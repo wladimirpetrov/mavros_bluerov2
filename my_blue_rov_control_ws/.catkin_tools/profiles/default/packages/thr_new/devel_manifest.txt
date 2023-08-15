@@ -1,0 +1,5 @@
+thr_new
+/local/vol00/home/vpetrov/dev/mavros_bluerov2/my_blue_rov_control_ws/devel/.private/thr_new/cmake.lock /local/vol00/home/vpetrov/dev/mavros_bluerov2/my_blue_rov_control_ws/devel/./cmake.lock
+/local/vol00/home/vpetrov/dev/mavros_bluerov2/my_blue_rov_control_ws/devel/.private/thr_new/lib/pkgconfig/thr_new.pc /local/vol00/home/vpetrov/dev/mavros_bluerov2/my_blue_rov_control_ws/devel/lib/pkgconfig/thr_new.pc
+/local/vol00/home/vpetrov/dev/mavros_bluerov2/my_blue_rov_control_ws/devel/.private/thr_new/share/thr_new/cmake/thr_newConfig-version.cmake /local/vol00/home/vpetrov/dev/mavros_bluerov2/my_blue_rov_control_ws/devel/share/thr_new/cmake/thr_newConfig-version.cmake
+/local/vol00/home/vpetrov/dev/mavros_bluerov2/my_blue_rov_control_ws/devel/.private/thr_new/share/thr_new/cmake/thr_newConfig.cmake /local/vol00/home/vpetrov/dev/mavros_bluerov2/my_blue_rov_control_ws/devel/share/thr_new/cmake/thr_newConfig.cmake
